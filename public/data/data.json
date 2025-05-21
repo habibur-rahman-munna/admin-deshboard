@@ -6,9 +6,23 @@
     { "name": "Sales", "href": "/sales", "icon": "BadgePoundSterling" },
     { "name": "Order", "href": "/order", "icon": "ListOrdered" },
     { "name": "Settings", "href": "/settings", "icon": "Settings" },
-    { "name": "Message", "href": "/settings", "icon": "MessageSquareMore" },
+    { "name": "Message", "href": "/message", "icon": "MessageSquareMore" },
     { "name": "Notification", "href": "/notification", "icon": "Bell" },
-        { "name": "Help", "href": "/help", "icon": "InfoIcon" }
-
+    { "name": "Help", "href": "/help", "icon": "InfoIcon" }
+  ],
+  "sales": [
+    { "name": "Jan", "sales": 3000 },
+    { "name": "Feb", "sales": 4000 },
+    { "name": "Mar", "sales": 5000 },
+    { "name": "Apr", "sales": 6000 },
+    { "name": "May", "sales": 7000 },
+    { "name": "Jun", "sales": 8000 },
+    { "name": "Jul", "sales": 3000 },
+    { "name": "Aug", "sales": 4000 },
+    { "name": "Sep", "sales": 6000 },
+    { "name": "Oct", "sales": 6000 },
+    { "name": "Nov", "sales": 3000 },
+    { "name": "Dec", "sales": 4000 }
   ]
 }
+
