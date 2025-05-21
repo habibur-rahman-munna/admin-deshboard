@@ -1,0 +1,14 @@
+{
+  "SidebarItems": [
+    { "name": "Deshboard", "href": "/", "icon": "House" },
+    { "name": "Product", "href": "/product", "icon": "ShoppingCart" },
+    { "name": "Clients", "href": "/clients", "icon": "User" },
+    { "name": "Sales", "href": "/sales", "icon": "BadgePoundSterling" },
+    { "name": "Order", "href": "/order", "icon": "ListOrdered" },
+    { "name": "Settings", "href": "/settings", "icon": "Settings" },
+    { "name": "Message", "href": "/settings", "icon": "MessageSquareMore" },
+    { "name": "Notification", "href": "/notification", "icon": "Bell" },
+        { "name": "Help", "href": "/help", "icon": "InfoIcon" }
+
+  ]
+}
